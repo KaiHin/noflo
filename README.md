@@ -1,4 +1,4 @@
 noflo
 =====
 
-Trying out flow-based programming
+Trying out flow-based programming.
